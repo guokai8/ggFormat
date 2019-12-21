@@ -1,5 +1,5 @@
 # ggFormat
-Provide consistent format for pubilication
+Provide consistent format for publication
 ## Description
 _ggFormat_ include functions for making figures with consistent format
 ## Installation
